@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794039263457,
+      "tag": "0000_daily_wildside",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794294523561,
+      "tag": "0001_premium_jocasta",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794364942719,
+      "tag": "0002_fair_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794551452971,
+      "tag": "0003_tough_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1794637073240,
+      "tag": "0004_mushy_puff_adder",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1794725101461,
+      "tag": "0005_silent_energizer",
+      "breakpoints": true
+    }
+  ]
+}
